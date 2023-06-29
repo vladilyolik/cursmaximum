@@ -15,3 +15,9 @@
     font-size: 22px;
     font-family: Courier New;
 }
+
+.paragraph-4 {
+    font-size:24px;
+    font-style: oblique;
+    text-shadow: green 0 0 2px;
+}
