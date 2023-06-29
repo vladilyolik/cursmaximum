@@ -1,0 +1,17 @@
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
